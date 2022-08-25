@@ -1,0 +1,23 @@
+{
+  "name": "zarzadzanie_magazynem",
+  "version": "1.0.0",
+  "description": "Simple Warehouse management system.",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon --inspect ./src"
+  },
+  "keywords": [
+    "Warehouse",
+    "Management",
+    "Project"
+  ],
+  "author": "Dominik Kruczek",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.13",
+    "nodemon": "^2.0.6",
+    "react": "^17.0.1"
+  }
+}
